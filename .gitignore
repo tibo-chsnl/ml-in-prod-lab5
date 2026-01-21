@@ -9,3 +9,4 @@ wheels/
 # Virtual environments
 .venv
 ml-in-prod-lab5-924b40d19887.json
+client_secrets.json
